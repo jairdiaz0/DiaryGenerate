@@ -1,7 +1,6 @@
 # DiaryGenerate
 Nos permite generar combinaciones de asignaturas con diferentes horarios, permitiendo que no existan asignaturas repetidas pero que las combinaciones contengan todas las asignaturas en al menos una de sus variantes.
 Se hizo uso de Listas Doblemente Ligadas circulares de Nodos(Asignaturas), que a su vez contienen abajo otra lista de Nodos(Horarios de cada Asignatura), todo con código generado.
-<hr>
 Imagenes del proyecto:
 -> Horarios (Nos permite agregar y/o eliminar horarios a una asignatura, ademas de permitirnos ver los horarios ya agregados a cada asignatura de forma individual)
 ![image](https://user-images.githubusercontent.com/98502086/185670362-0ceabc9d-48f1-4b62-b6ea-9a39606b4665.png)
